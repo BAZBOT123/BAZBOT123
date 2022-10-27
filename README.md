@@ -12,7 +12,7 @@
 
 - 💡 I have experience in using **HTML & CSS, Javascript, React.JS, Node.js, ExpressJS, Prisma ORM, TDD, OOP and PostgreSQL**
 
-- 👯 I’m looking to collaborate on [cleaning-app-client](https://github.com/BAZBOT123/cleaning-app-client)
+- 👯 I’m open to collaborate on [cleaning-app-client](https://github.com/BAZBOT123/cleaning-app-client)
 
 - 🌱 I would like advice on my completed project [solo-project-diary-client](https://github.com/BAZBOT123/solo-project-diary-client)
 
