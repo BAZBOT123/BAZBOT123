@@ -14,7 +14,7 @@
 
 - 👯 I am open to collaborate on [cleaning-app-client](https://github.com/BAZBOT123/cleaning-app-client)
 
-- 🌱 I would like advice on my completed project [solo-project-diary-client](https://github.com/BAZBOT123/solo-project-diary-client)
+- 🌱 I would like to hear your thoughts on my completed project [My Diary](https://b-mydiary.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/BAZBOT123?tab=repositories](https://github.com/BAZBOT123?tab=repositories)
 
