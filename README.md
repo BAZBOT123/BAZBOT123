@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazbot123&label=Profile%20views&color=0e75b6&style=flat" alt="bazbot123" /> </p>
 
-- 🔭 I’m currently working on [cleaning-app-client](https://github.com/BAZBOT123/cleaning-app-client)
+- 🔭 I am currently working on [cleaning-app-client](https://github.com/BAZBOT123/cleaning-app-client)
 
 - 💡 I have experience in using **HTML & CSS, Javascript, React.JS, Node.js, ExpressJS, Prisma ORM, TDD, OOP and PostgreSQL.**
 
-- 👯 I’m open to collaborate on [cleaning-app-client](https://github.com/BAZBOT123/cleaning-app-client)
+- 👯 I am open to collaborate on [cleaning-app-client](https://github.com/BAZBOT123/cleaning-app-client)
 
 - 🌱 I would like advice on my completed project [solo-project-diary-client](https://github.com/BAZBOT123/solo-project-diary-client)
 
